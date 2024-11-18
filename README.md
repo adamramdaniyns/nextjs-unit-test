@@ -13,7 +13,7 @@ Proyek ini adalah implementasi unit testing untuk API di Next.js menggunakan **S
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   https://github.com/adamramdaniyns/nextjs-unit-test.git
    cd project-name
     ```
 2. Install Depedencies
